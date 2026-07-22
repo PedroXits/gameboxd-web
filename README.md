@@ -66,3 +66,7 @@ O projeto encontra-se em desenvolvimento, e portanto, pode sofrer alterações d
 - Vite
 - Tailwind CSS
 - TanStack Query
+
+## Documentação
+
+A documentação técnica do projeto encontra-se na pasta `docs/`.
